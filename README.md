@@ -20,9 +20,9 @@ To get a local copy up and running follow these simple example steps.
 - Clone repo into your machine. For this, I recommend the following steps:
   - Open a terminal of your choice (e.g. VS Code integrated terminal)
   - Select the destination folder (On windows, run cd "_Destination folder_")
-  - Run git clone https://github.com/DyaryRaoof/book-store
+  - Run git clone https://github.com/silviatofana/awesome-books
 - Open the destination folder in your preferred file explorer
-- Open folder "book-store"
+- Open folder "awesome-books"
 - Open index.html
 
 ### Prerequisites
