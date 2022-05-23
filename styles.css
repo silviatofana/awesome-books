@@ -1,0 +1,8 @@
+body {
+  font-family: 'Ubuntu', sans-serif !important;
+}
+
+.vertical-line {
+  width: 1px;
+  background-color: black;
+}
