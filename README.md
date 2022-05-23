@@ -33,19 +33,14 @@ Any modern web browser will do.
 
 Follow the steps described before.
 
-## Authors
+## Author
 
-👤 **Dyary Raoof Bayz**
+👤 **Silvia Tofana**
 
-- GitHub: [@DyaryRaoof](https://github.com/DyaryRaoof)
-- Twitter: [@DyaryRaoof](https://twitter.com/DyaryRaoof)
-- LinkedIn: [@DyaryRaoof](https://linkedin.com/in/DyaryRaoof)
+- GitHub: [@silviatofana](https://github.com/silviatofana)
+- Twitter: [@silviatofana](https://twitter.com/silviatofana)
+- LinkedIn: [@silviatofana](https://linkedin.com/in/silviatofana)
 
-👤 **Dico Diaz Dussan**
-
-- GitHub: [@dicodiaz](https://github.com/dicodiaz)
-- Twitter: [@DicoDiaz1](https://twitter.com/DicoDiaz1)
-- LinkedIn: [Dico Diaz Dussan](https://www.linkedin.com/in/dico-diaz-dussan)
 
 ## 🤝 Contributing
 
