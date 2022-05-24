@@ -4,6 +4,8 @@
 
 Awesome books is an online book store. It's built with HTML, CSS and mostly JS based on a medium-fidelity wireframe given by Microverse. Adding and removing books from the DOM is made in JavaScript functionality. Also, the books are stored in the local storage so they are retreived when the page reloads.
 
+## Live demo https://silviatofana.github.io/awesome-books/
+
 ![screenshot](./app_screenshot.png)
 
 ## Built With
