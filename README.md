@@ -41,6 +41,11 @@ Follow the steps described before.
 - Twitter: [@silviatofana](https://twitter.com/silviatofana)
 - LinkedIn: [@silviatofana](https://linkedin.com/in/silviatofana)
 
+👤 **Kiprotich Kimutai**
+
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
 
 ## 🤝 Contributing
 
