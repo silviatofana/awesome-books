@@ -46,7 +46,7 @@ Follow the steps described before.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the https://github.com/silviatofana/awesome-books.
 
 ## Show your support
 
