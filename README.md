@@ -6,7 +6,7 @@ Awesome books is an online book store. It's built with HTML, CSS and mostly JS b
 
 ## Live demo https://silviatofana.github.io/awesome-books/
 
-![screenshot](./app_screenshot.png)
+![screenshot]([./app_screenshot.png](https://silviatofana.github.io/awesome-books/)
 
 ## Built With
 
